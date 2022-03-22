@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 16 17:30:26 2019
-@author: drestre
+@author: drestre - daniel restrepo-montoya
 Data S2 - one_hot-ordinal encoding
 """
 import pandas as pd
