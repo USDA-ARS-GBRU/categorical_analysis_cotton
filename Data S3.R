@@ -1,7 +1,10 @@
 library("FactoMineR")
 library("factoextra")
 library("ggplot2")
-
+#######
+#
+# created drestre - daniel restrepo-montoya
+#
 ###### options 
 options(ggrepel.max.overlaps = 17) # set number of tags 10 equals default, inf equals all
 options(scipen = 999) #tun of scientific notation / options(scipen = 0) # revert by default
